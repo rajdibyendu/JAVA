@@ -27,6 +27,7 @@ public class Sample {
 		//compiler will only check,RBI has interest mtd or not?
 		Rbi rbi=new Pnb();
 		System.out.println(rbi.interest());
+	
 		
 	}
 }

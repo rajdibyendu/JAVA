@@ -9,7 +9,7 @@ class Test{
 }
 
 public class Demo extends Test{
-	void dmo() {
+	void tst() {
 		System.out.println("Demo");
 	}	
 }

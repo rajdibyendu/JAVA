@@ -2,7 +2,7 @@ package Pyramid;
 
 public class Diamond_1_212_32123 {
 	public static void main(String[] args) {
-		int n=7,sp=n/2+1,st=1,num=0;
+		int n=7,sp=n/2,st=1,num=0;
 		for(int i=1; i<=n; i++) {
 			if(i<=n/2)
 				num=i;

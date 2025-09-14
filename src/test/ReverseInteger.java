@@ -2,7 +2,7 @@ package test;
 public class ReverseInteger{
 
     public static void main(String args[]) {
-        int input = 0b1010;
+        int input = 1000;
         while(input>0) {
         	int rem=input%10;
         	input=input/10;
